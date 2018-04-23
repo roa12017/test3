@@ -86,4 +86,4 @@ void main()
 	}
 
 	delete[] pData;
-}//‚¤
+}//ule-i
